@@ -1,0 +1,29 @@
+{
+	"X-ABPLD": {
+		"name": "AUD/USD",
+		"code": "123",
+		"spread": 0.70,
+		"1day": {
+			"movement": 0.30,
+			"price": null
+		}
+	},
+	"X-ABPOE": {
+		"name": "EUR/GBP",
+		"code": "456",
+		"spread": 1.10,
+		"1day": {
+			"movement": -0.28,
+			"price": null
+		}
+	},
+	"X-AXALK": {
+		"name": "EUR/USD",
+		"code": "789",
+		"spread": 0.70,
+		"1day": {
+			"movement": -0.03,
+			"price": null
+		}
+	}
+}

@@ -1,0 +1,29 @@
+{
+	"X-ABFDN": {
+		"name": "US 30",
+		"code": "123",
+		"spread": 2,
+		"day": {
+			"price": null,
+			"movement": 0.02
+		}
+	},
+	"X-ABAAA": {
+		"name": "Germany 40",
+		"code": "234",
+		"spread": 1,
+		"day": {
+			"price": null,
+			"movement": -0.63
+		}
+	},
+	"X-AQWER": {
+		"name": "US NDAQ 100",
+		"code": "789",
+		"spread": 2,
+		"day": {
+			"movement": 0.28,
+			"price": null
+		}
+	}
+}
